@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Dominio\" />
+    <Folder Include="Repositorio\" />
   </ItemGroup>
 
 </Project>
